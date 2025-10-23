@@ -7,7 +7,7 @@ handle possible errors in the user’s input. Do not forget to follow the “Git
 >>
 costs <<
 -Starting this project pretty late because i have alot of other classwork\   
--need to get used to github \ 
+-need to get used to github\ 
 -On a time crunch due to the classwork\
 >>
 \Notes 10/18/2025
