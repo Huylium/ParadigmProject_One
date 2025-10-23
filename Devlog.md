@@ -22,6 +22,8 @@ Notes 10/23/2025 session starting 11:30am
 -i'll start making the project file right now.\
 -again, im a little nervous starting this project as i am not experienced in this language.\
 -laptop almost dying gotta save before next class\
+>> - im not gonna lie i can't focus like this. I have atleast made somewhat of the framework in my head (like how i need a loop that repeats the process and some helper functions to help with processing and stuff. Still figuring out how to do the memory stuff.)
+>> - Session ending at 1:29pm (im gonna start again later today with a more detailed log and actual project hopefully)
 
 <<
 
