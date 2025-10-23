@@ -23,5 +23,7 @@ Notes 10/23/2025 session starting 11:30am
 -again, im a little nervous starting this project as i am not experienced in this language.\
 -laptop almost dying gotta save before next class\
 
+<<
+
 
 >>
