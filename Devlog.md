@@ -52,4 +52,6 @@ Session starting at 2:35 pm 10/24/2025\
 -ok, comments are finished and now i'll organize this markdown file.\
 -i'll probably have to commit several times for this to work\
 -i dont know if its possible to do it easily but it would be great to put pictures in here to record test cases\
+-turns out adding a backslash to every line does wonders.\
+-i should be able to turn in the project now after i push this version
 
