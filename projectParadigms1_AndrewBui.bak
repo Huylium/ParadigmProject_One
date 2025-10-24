@@ -1,0 +1,4 @@
+#lang racket
+;first paradigms project
+;objective is to create a prefix calculator that can record history
+;im a little scared starting this project
