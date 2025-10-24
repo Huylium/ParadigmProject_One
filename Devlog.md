@@ -28,6 +28,7 @@ Session ending at 1:29pm (im gonna start again later today with a more detailed 
 
 
 Notes 10/23/2025 session starting 6:48pm
+
 -i'll attempt to actually complete the bulk work this time
 -im having a lot of trouble with the syntax
 -got divide to work but minus is still a problem
@@ -41,6 +42,7 @@ Notes 10/23/2025 session starting 6:48pm
 Session ending(?) at 2:15am 10/24/2025 (next day)
 
 Session starting at 2:35 pm 10/24/2025
+
 -This session is dedicated to just polishing everything and added more detailed comments everywhere.
 -I also need to clean this markdown file up a bit. its quite messy right now and i need to get used to it
 -I'm also doing chores and other stuff so this session may be a little long than neccessary
