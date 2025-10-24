@@ -15,19 +15,19 @@ costs
 Still gotta finish other projects but atleast im starting this now. I'm a little nervous about starting since I have to learn and then code with Haskell, though  
 the scheme practice should help i think\
 
-Notes 10/23/2025 session starting 11:30am 
+Notes 10/23/2025 session starting 11:30am\
 
 -wow i was busy. I need to start working on it as soon as possible but im still at campus doing my classes. This session is meant to atleast get some starting point even if im in the middle of classes.\
 -i found out that we are infact coding in racket from the class discord (thank goodness). The instructions mentioned haskell and i got confused.\
 -i'll start making the project file right now.\
 -again, im a little nervous starting this project as i am not experienced in this language.\
 -laptop almost dying gotta save before next class\
-- im not gonna lie i can't focus like this. I have atleast made somewhat of the framework in my head (like how i need a loop that repeats the process and some helper functions to help with processing and stuff. Still figuring out how to do the memory stuff.)
+- im not gonna lie i can't focus like this. I have atleast made somewhat of the framework in my head (like how i need a loop that repeats the process and some helper functions to help with processing and stuff. Still figuring out how to do the memory stuff.)\
 
-Session ending at 1:29pm (im gonna start again later today with a more detailed log and actual project hopefully)
+Session ending at 1:29pm (im gonna start again later today with a more detailed log and actual project hopefully)\
 
 
-Notes 10/23/2025 session starting 6:48pm
+Notes 10/23/2025 session starting 6:48pm\
 
 -i'll attempt to actually complete the bulk work this time \
 -im having a lot of trouble with the syntax\
@@ -41,9 +41,9 @@ Notes 10/23/2025 session starting 6:48pm
 -I'll add comments tmrw once i polish it, but for now i think im calling it for the night.\
  
  
-Session ending(?) at 2:15am 10/24/2025 (next day)
+Session ending(?) at 2:15am 10/24/2025 (next day)\
 
-Session starting at 2:35 pm 10/24/2025
+Session starting at 2:35 pm 10/24/2025\
 
 -This session is dedicated to just polishing everything and added more detailed comments everywhere.\
 -I also need to clean this markdown file up a bit. its quite messy right now and i need to get used to it\
